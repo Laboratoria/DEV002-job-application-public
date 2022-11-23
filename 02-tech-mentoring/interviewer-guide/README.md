@@ -163,7 +163,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
 Habrán 2 tipos de feedback que te pediremos al final de la dinámica, idealmente
 1 a 2 días después de la simulación:
 
-1)**Feedback hacia la estudiante** que enviarás por correo con algunos aspectos
+1) **Feedback hacia la estudiante** que enviarás por correo con algunos aspectos
 en concreto que te recomendamos:
 
 Siguiendo la estructura del scorecard, tómate un momento para dar tu feedback
@@ -208,7 +208,7 @@ tratar de proporcionar **información concreta** y, si es posible, **enlaces,
 recursos y/o contenidos** si crees que vale la pena que el estudiante se enfoque
 en los puntos que podría mejorar.
 
-2)**Feedback hacia el equipo**, el que realizarás a través de un 
+2) **Feedback hacia el equipo**, el que realizarás a través de un 
 [_scorecard_](https://docs.google.com/forms/d/e/1FAIpQLSfQ17OZZBeAkxlLEQU5AYR2Fq5p-qsD_240d0tbUS-XQUdnfg/viewform) que te pedirá evaluar
 su desempeño en los distintos aspectos que integran la simulación y dejarnos
 recomendaciones para el equipo.
