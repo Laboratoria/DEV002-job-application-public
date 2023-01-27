@@ -96,9 +96,9 @@ revisión y feedback de herramientas y con la simulación.**
 | Sesión de Q&A sobre el programa.                    |   Fija   |          | Jueves 12 de enero <li>15:00 hrs. (MX)</li><li>16:00 hrs. (COL, EC, PE)</li><li>18:00 hrs. (CL)</li>         |
 | Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |  Semana del 16.01         | Viernes 20 de enero <li>09:00 hrs. (MX)</li><li>10:00 hrs. (COL, EC, PE)</li><li>12:00 hrs. (CL)</li>        |
 | Sesión de seguimiento al feedback.                  | Abierta  |  Del 23.01 al 03.02        |          |
-| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |  Hasta el 10.02       |          |
+| Enviar <a href= https://docs.google.com/forms/d/e/1FAIpQLSdYtx1ok859dk3KAswa8nm8DsBP2HCMOadJAIECYbqnHtxdJA/viewform>formulario evaluación y feedback CV/LinkedIn.| Abierta  |  Hasta el 10.02       |          |
 | Simulación de entrevista de recursos humanos.       | Abierta  |  Del 06 al 17.02        |          |
-| Enviar formulario evaluación y feedback entrevista. | Abierta  |  Hasta el 24.02        |          |
+| Enviar <a href= https://docs.google.com/forms/d/e/1FAIpQLSdU0z6_Z80o61nxt0JCpAFo-VKy4M3RAjrzwhEAW9b3Vqg44Q/viewform>formulario evaluación y feedback entrevista. | Abierta  |  Hasta el 24.02        |          |
 
 ### Objetivos de aprendizaje
 
