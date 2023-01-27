@@ -129,9 +129,9 @@ simulación y revisión y feedback de su Github profile.**
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |          |          |
-| Simulación de entrevista técnica.            | Abierta  |          |          |
-| Enviar formulario evaluación y feedback.     | Abierta  |          |          |
+| Sesión de Q&A sobre el programa.             |   Fija   | Semana del 20.02        | Por definir         |
+| Simulación de entrevista técnica.            | Abierta  | Del 06.03 al 17.03         |          |
+| Enviar formulario evaluación y feedback.     | Abierta  | Hasta el 24.03         |          |
 
 ### Objetivos de aprendizaje
 
