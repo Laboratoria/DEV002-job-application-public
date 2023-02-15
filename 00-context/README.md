@@ -128,8 +128,8 @@ podrás consultar los objetivos alcanzar con la
 simulación y revisión y feedback de su Github profile.**
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
-|----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   | Semana del 27.02        | Por definir         |
+|----------------------------------------------|----------|----------|----------|
+| Sesión de Q&A sobre el programa.             |   Fija   |          |Lunes 27 de febrero <li>13:30 hrs. (MX)</li><li> 14:30 hrs. (COL, EC, PE)</li><li> 16:30 hrs. (CL)</li>|
 | Simulación de entrevista técnica.            | Abierta  | Del 06.03 al 17.03         |          |
 | Enviar formulario evaluación y feedback.     | Abierta  | Hasta el 24.03         |          |
 
