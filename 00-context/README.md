@@ -131,7 +131,7 @@ simulación y revisión y feedback de su Github profile.**
 |----------------------------------------------|----------|----------|----------|
 | Sesión de Q&A sobre el programa.             |   Fija   |          |Lunes 27 de febrero <li>13:30 hrs. (MX)</li><li> 14:30 hrs. (COL, EC, PE)</li><li> 16:30 hrs. (CL)</li>|
 | Simulación de entrevista técnica.            | Abierta  | Del 06.03 al 17.03         |          |
-| Enviar formulario evaluación y feedback.     | Abierta  | Hasta el 24.03         |          |
+| Enviar <a href= https://docs.google.com/forms/d/e/1FAIpQLSfQ17OZZBeAkxlLEQU5AYR2Fq5p-qsD_240d0tbUS-XQUdnfg/viewform>formulario evaluación y feedback.     | Abierta  | Hasta el 24.03         |          |
 
 ### Objetivos de aprendizaje
 
