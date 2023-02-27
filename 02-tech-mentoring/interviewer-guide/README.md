@@ -46,7 +46,7 @@ Esta dinámica tiene 2 objetivos principales:
 
 ## La dinámica
 
-La vacante a la que la estudiante estarán aspirando es la que encuentras en este [link](https://docs.google.com/document/d/1Re0P4xnzR4TBKER82SPBjcpospmbU9xBZGnvDu16pEo/edit). Es importante que tengas encuenta lo que se describe para la simulación. ¡No te olvides que están en su proceso de aprendizaje aún!
+La vacante a la que la estudiante estarán aspirando es la que encuentras en este [link](https://docs.google.com/document/d/1Re0P4xnzR4TBKER82SPBjcpospmbU9xBZGnvDu16pEo/edit). Es importante que tengas en cuenta lo que se describe para la simulación. ¡No te olvides que están en su proceso de aprendizaje aún!
 
 Conviene además recordar que todas las estudiantes tienen un bagaje muy diferente antes
 de entrar a Laboratoria. La mayoría de ellas tienen experiencias en ámbitos
@@ -68,7 +68,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
   Antes de ponerte en modo entrevistadorx es importante recordarle a la
   estudiante que esta es una entrevista de práctica, es sobre todo para
   identificar qué haría en una entrevisa real, cómo se comportaría si se pone
-  nerviosa, o que recursos puede usar para controlar o manejar esas situaciones.
+  nerviosa, o qué recursos puede usar para controlar o manejar esas situaciones.
 
 - **Intro**
 
@@ -90,7 +90,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
 - **Preguntas Conceptuales**
 
   El objetivo de este espacio es validar el nivel de entendimiento de ciertos
-  conceptos por parte de la estudiante, asi cómo su capacidad de expresión
+  conceptos por parte de la estudiante, asi como su capacidad de expresión
   usando términos técnicos.
 
   Este es un buen punto para identificar el nivel de confianza con la que llega
